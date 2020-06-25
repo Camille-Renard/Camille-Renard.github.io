@@ -127,6 +127,15 @@ A vous de personnalisez vos container
 }
 
 
+#competences.container div {
+  .image-ronde{
+  width : 150px; height : 150px;
+  border: none;
+  -moz-border-radius : 75px;
+  -webkit-border-radius : 75px;
+  border-radius : 75px;
+}
+}
 
 /* PARTIE 4 - style responsive */
 
